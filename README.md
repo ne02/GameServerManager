@@ -1,2 +1,2 @@
 # GameServerManager
-Einfach GameServer Manager für ServerAdministratoren in c#
+Einfacher GameServer Manager für Server Administratoren in c#
