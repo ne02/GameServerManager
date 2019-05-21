@@ -19,26 +19,26 @@ namespace ServerManager
 
         public string SteamPath
         {
-            get { return steamPath }
-            set { steamPath = value }
+            get { return steamPath; }
+            set { steamPath = value; }
         }
         // ------------------------------------
         public string SteamUser
         {
-            get { return steamuser }
-            set { steamuser = value }
+            get { return steamuser; }
+            set { steamuser = value; }
         }
         // ------------------------------------
         public string SteamPass
         {
-            get { return steampass }
-            set { steampass = value }
+            get { return steampass; }
+            set { steampass = value; }
         }
         // ------------------------------------
         public string ServerPath
         {
-            get { return serverPath }
-            set { serverPath = value }
+            get { return serverPath; }
+            set { serverPath = value; }
         }
         // ------------------------------------
 
